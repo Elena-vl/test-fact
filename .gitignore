@@ -1,0 +1,9 @@
+/bitrix
+/upload
+.vscode
+*.log
+*.sql
+*.xml
+/.idea
+.htaccess
+*.txt
